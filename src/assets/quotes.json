@@ -1,0 +1,403 @@
+
+[
+  {
+    "id": 1,
+    "quote": "The only way to do great work is to love what you do."
+  },
+  {
+    "id": 2,
+    "quote": "Success is not the key to happiness. Happiness is the key to success."
+  },
+  {
+    "id": 3,
+    "quote": "Don't watch the clock; do what it does. Keep going."
+  },
+  {
+    "id": 4,
+    "quote": "Success usually comes to those who are too busy to be looking for it."
+  },
+  {
+    "id": 5,
+    "quote": "Opportunities don't happen, you create them."
+  },
+  {
+    "id": 6,
+    "quote": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change."
+  },
+  {
+    "id": 7,
+    "quote": "I find that the harder I work, the more luck I seem to have."
+  },
+  {
+    "id": 8,
+    "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts."
+  },
+  {
+    "id": 9,
+    "quote": "If you really look closely, most overnight successes took a long time."
+  },
+  {
+    "id": 10,
+    "quote": "Don't be afraid to give up the good to go for the great."
+  },
+  {
+    "id": 11,
+    "quote": "I attribute my success to this: I never gave or took any excuse."
+  },
+  {
+    "id": 12,
+    "quote": "Fall seven times and stand up eight."
+  },
+  {
+    "id": 13,
+    "quote": "The road to success and the road to failure are almost exactly the same."
+  },
+  {
+    "id": 14,
+    "quote": "It always seems impossible until it’s done."
+  },
+  {
+    "id": 15,
+    "quote": "It does not matter how slowly you go, as long as you do not stop."
+  },
+  {
+    "id": 16,
+    "quote": "Try not to become a man of success. Rather become a man of value."
+  },
+  {
+    "id": 17,
+    "quote": "Success is not how high you have climbed, but how you make a positive difference to the world."
+  },
+  {
+    "id": 18,
+    "quote": "Strive not to be a success, but rather to be of value."
+  },
+  {
+    "id": 19,
+    "quote": "Don't let yesterday take up too much of today."
+  },
+  {
+    "id": 20,
+    "quote": "The future depends on what you do today."
+  },
+  {
+    "id": 21,
+    "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us."
+  },
+  {
+    "id": 22,
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny."
+  },
+  {
+    "id": 23,
+    "quote": "Believe you can and you're halfway there."
+  },
+  {
+    "id": 24,
+    "quote": "Failure is not the opposite of success; it’s part of success."
+  },
+  {
+    "id": 25,
+    "quote": "Our greatest glory is not in never falling, but in rising every time we fall."
+  },
+  {
+    "id": 26,
+    "quote": "Success is walking from failure to failure with no loss of enthusiasm."
+  },
+  {
+    "id": 27,
+    "quote": "The only limit to our realization of tomorrow is our doubts of today."
+  },
+  {
+    "id": 28,
+    "quote": "I never dreamed about success, I worked for it."
+  },
+  {
+    "id": 29,
+    "quote": "It’s not whether you get knocked down, it’s whether you get up."
+  },
+  {
+    "id": 30,
+    "quote": "If you want to achieve greatness stop asking for permission."
+  },
+  {
+    "id": 31,
+    "quote": "Things work out best for those who make the best of how things work out."
+  },
+  {
+    "id": 32,
+    "quote": "Success is how high you bounce when you hit bottom."
+  },
+  {
+    "id": 33,
+    "quote": "You miss 100% of the shots you don't take."
+  },
+  {
+    "id": 34,
+    "quote": "The only place where success comes before work is in the dictionary."
+  },
+  {
+    "id": 35,
+    "quote": "Your time is limited, don't waste it living someone else's life."
+  },
+  {
+    "id": 36,
+    "quote": "Do not be embarrassed by your failures, learn from them and start again."
+  },
+  {
+    "id": 37,
+    "quote": "I failed my way to success."
+  },
+  {
+    "id": 38,
+    "quote": "Success is not the absence of failure; it’s the persistence through failure."
+  },
+  {
+    "id": 39,
+    "quote": "The real test is not whether you avoid this failure, because you won’t. It’s whether you let it harden or shame you into inaction, or whether you learn from it."
+  },
+  {
+    "id": 40,
+    "quote": "It’s fine to celebrate success but it is more important to heed the lessons of failure."
+  },
+  {
+    "id": 41,
+    "quote": "The way to get started is to quit talking and begin doing."
+  },
+  {
+    "id": 42,
+    "quote": "Don’t wait for opportunity. Create it."
+  },
+  {
+    "id": 43,
+    "quote": "It’s not the load that breaks you down, it’s the way you carry it."
+  },
+  {
+    "id": 44,
+    "quote": "If you set your goals ridiculously high and it’s a failure, you will fail above everyone else’s success."
+  },
+  {
+    "id": 45,
+    "quote": "Don't be pushed by your problems. Be led by your dreams."
+  },
+  {
+    "id": 46,
+    "quote": "Success comes from having dreams that are bigger than your fears."
+  },
+  {
+    "id": 47,
+    "quote": "Dream big and dare to fail."
+  },
+  {
+    "id": 48,
+    "quote": "You have to believe in yourself when no one else does."
+  },
+  {
+    "id": 49,
+    "quote": "The best way to predict the future is to create it."
+  },
+  {
+    "id": 50,
+    "quote": "Success is getting what you want, happiness is wanting what you get."
+  },
+  {
+    "id": 51,
+    "quote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him."
+  },
+  {
+    "id": 52,
+    "quote": "Failure is simply the opportunity to begin again, this time more intelligently."
+  },
+  {
+    "id": 53,
+    "quote": "Success consists of going from failure to failure without loss of enthusiasm."
+  },
+  {
+    "id": 54,
+    "quote": "Do not wait to strike till the iron is hot, but make it hot by striking."
+  },
+  {
+    "id": 55,
+    "quote": "Action is the foundational key to all success."
+  },
+  {
+    "id": 56,
+    "quote": "To succeed in life, you need two things: ignorance and confidence."
+  },
+  {
+    "id": 57,
+    "quote": "The harder I work, the luckier I get."
+  },
+  {
+    "id": 58,
+    "quote": "Success doesn’t just find you. You have to go out and get it."
+  },
+  {
+    "id": 59,
+    "quote": "Do something today that your future self will thank you for."
+  },
+  {
+    "id": 60,
+    "quote": "You can’t have a million-dollar dream with a minimum-wage work ethic."
+  },
+  {
+    "id": 61,
+    "quote": "Don’t stop when you’re tired. Stop when you’re done."
+  },
+  {
+    "id": 62,
+    "quote": "The man who has confidence in himself gains the confidence of others."
+  },
+  {
+    "id": 63,
+    "quote": "Work hard in silence, let your success be your noise."
+  },
+  {
+    "id": 64,
+    "quote": "If you are not willing to risk the usual, you will have to settle for the ordinary."
+  },
+  {
+    "id": 65,
+    "quote": "Don't be afraid to give up the good to go for the great."
+  },
+  {
+    "id": 66,
+    "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure."
+  },
+  {
+    "id": 67,
+    "quote": "Believe in yourself, take on your challenges, dig deep within yourself to conquer fears."
+  },
+  {
+    "id": 68,
+    "quote": "Start where you are. Use what you have. Do what you can."
+  },
+  {
+    "id": 69,
+    "quote": "The only way to achieve the impossible is to believe it is possible."
+  },
+  {
+    "id": 70,
+    "quote": "Push yourself, because no one else is going to do it for you."
+  },
+  {
+    "id": 71,
+    "quote": "Success is not measured by what you accomplish, but by the opposition you have encountered."
+  },
+  {
+    "id": 72,
+    "quote": "Don’t be distracted by criticism. Remember, the only taste of success some people get is to take a bite out of you."
+  },
+  {
+    "id": 73,
+    "quote": "Success is liking yourself, liking what you do, and liking how you do it."
+  },
+  {
+    "id": 74,
+    "quote": "The key to success is to focus on goals, not obstacles."
+  },
+  {
+    "id": 75,
+    "quote": "The difference between who you are and who you want to be is what you do."
+  },
+  {
+    "id": 76,
+    "quote": "Great things never come from comfort zones."
+  },
+  {
+    "id": 77,
+    "quote": "Dream it. Wish it. Do it."
+  },
+  {
+    "id": 78,
+    "quote": "Success is a journey, not a destination."
+  },
+  {
+    "id": 79,
+    "quote": "The best revenge is massive success."
+  },
+  {
+    "id": 80,
+    "quote": "The secret of success is to do the common thing uncommonly well."
+  },
+  {
+    "id": 81,
+    "quote": "Never give up, for that is just the place and time that the tide will turn."
+  },
+  {
+    "id": 82,
+    "quote": "The secret to getting ahead is getting started."
+  },
+  {
+    "id": 83,
+    "quote": "A goal is a dream with a deadline."
+  },
+  {
+    "id": 84,
+    "quote": "Motivation is what gets you started. Habit is what keeps you going."
+  },
+  {
+    "id": 85,
+    "quote": "Success is 99% perspiration and 1% inspiration."
+  },
+  {
+    "id": 86,
+    "quote": "What you get by achieving your goals is not as important as what you become by achieving your goals."
+  },
+  {
+    "id": 87,
+    "quote": "To accomplish great things, we must not only act, but also dream, not only plan, but also believe."
+  },
+  {
+    "id": 88,
+    "quote": "Some people dream of success, while other people get up every morning and make it happen."
+  },
+  {
+    "id": 89,
+    "quote": "Success is about creating value for others."
+  },
+  {
+    "id": 90,
+    "quote": "People who succeed have momentum. The more they succeed, the more they want to succeed."
+  },
+  {
+    "id": 91,
+    "quote": "Do what you can, with what you have, where you are."
+  },
+  {
+    "id": 92,
+    "quote": "Success is how high you bounce when you hit the bottom."
+  },
+  {
+    "id": 93,
+    "quote": "Successful people do what unsuccessful people are not willing to do."
+  },
+  {
+    "id": 94,
+    "quote": "The secret of getting ahead is getting started."
+  },
+  {
+    "id": 95,
+    "quote": "Success seems to be largely a matter of hanging on after others have let go."
+  },
+  {
+    "id": 96,
+    "quote": "Your limitation—it’s only your imagination."
+  },
+  {
+    "id": 97,
+    "quote": "The path to success is to take massive, determined action."
+  },
+  {
+    "id": 98,
+    "quote": "Stop doubting yourself, work hard, and make it happen."
+  },
+  {
+    "id": 99,
+    "quote": "If it doesn’t challenge you, it won’t change you."
+  },
+  {
+    "id": 100,
+    "quote": "Don’t wait for the right opportunity. Create it."
+  }
+]
